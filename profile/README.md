@@ -8,4 +8,4 @@
 2. Co developer, Aedan Mills
 3. Website developer, Weston Schnee
 
-> Website made in [#](SnowyMD)
+> Website made in [SnowyMD](#)
